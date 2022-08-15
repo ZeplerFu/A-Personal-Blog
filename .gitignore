@@ -1,0 +1,6 @@
+.idea
+target
+*.iml
+*-dev.yml
+blog-vue/node_modules
+blog-vue/yarn.lock
