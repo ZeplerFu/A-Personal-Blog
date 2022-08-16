@@ -1,2 +1,1 @@
-Project of Zheping Fu,
- A blog website
+Zheping Fu's Project, A blog website
